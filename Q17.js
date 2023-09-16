@@ -1,0 +1,17 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const Q16_1 = require("./Q16");
+console.log("I found out that my new dinner table won’t arrive in time for the dinner, and I have space for only two guests");
+console.log();
+console.log("Sorry " + Q16_1.guestsss.pop() + " I can't invite you to dinner");
+console.log();
+console.log("Sorry " + Q16_1.guestsss.pop() + " I can't invite you to dinner");
+console.log();
+console.log("Sorry " + Q16_1.guestsss.pop() + " I can't invite you to dinner");
+console.log();
+console.log("Sorry " + Q16_1.guestsss.pop() + " I can't invite you to dinner");
+console.log();
+console.log("Hey " + Q16_1.guestsss[0] + "! I am writing this to invite you for dinner at my place.");
+console.log();
+console.log("Hey " + Q16_1.guestsss[1] + "! I am writing this to invite you for dinner at my place.");
+console.log();
